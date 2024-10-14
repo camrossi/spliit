@@ -8,7 +8,7 @@ on:
 
 jobs:
   checks:
-    runs-on: ubuntu-latest
+    runs-on: home-runners
 
     steps:
       - name: Check out repository
